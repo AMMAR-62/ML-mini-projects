@@ -1,0 +1,7 @@
+venv/
+corpora
+.ipynb_checkpoints
+__pycache__
+bookgenremodel.pkl
+tfdifvector.pkl
+BooksDataSet.csv
