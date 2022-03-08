@@ -1,4 +1,7 @@
-Pose Estimation/static
-Face Detection Basics/static
 venv
-Continuouscamer.py
+dob_breed.h5
+labels.csv
+sample_submission.csv
+train/
+test/
+streamlit_app/dob_breed.h5
