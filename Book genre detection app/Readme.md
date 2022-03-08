@@ -1,2 +1,0 @@
- - this project detect the book using NLP
- - descriptive steps are to be added in the notebook later.
