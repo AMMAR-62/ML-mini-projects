@@ -1,7 +1,1 @@
-venv
-dob_breed.h5
-labels.csv
-sample_submission.csv
-train/
-test/
-streamlit_app/dob_breed.h5
+__pycache__
